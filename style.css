@@ -370,10 +370,6 @@ li.social-footer a:hover {
     display: block;
     margin-bottom: -60px;
   }
-
-  .page-header-image+.page-content-wrapper.content-1170 {
-    margin-top: 0;
-  }
 }
 
 @media screen and (max-width: 1020px) {
@@ -428,6 +424,10 @@ li.social-footer a:hover {
     float: none;
     text-align: center;
     width: 100%;
+  }
+
+  .page-header-image+.page-content-wrapper.content-1170 {
+    margin-top: 0;
   }
 
   .quote {
