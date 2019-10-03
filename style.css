@@ -493,7 +493,7 @@ li.social-footer a:hover {
 @media (prefers-color-scheme: dark) {
   body {
     color: #fff;
-    background-color: #323232;
+    background-color: #000;
   }
 
   body a {
@@ -501,23 +501,23 @@ li.social-footer a:hover {
   }
 
   body a:hover {
-    color: #7e7e7e;
+    color: #9f9f9f;
   }
 
   .site-wrapper ::selection {
-    background-color: #7e7e7e;
+    background-color: #9f9f9f;
   }
 
   .site-wrapper ::-moz-selection {
-    background-color: #7e7e7e;
+    background-color: #9f9f9f;
   }
 
   .underline:after {
-    background-color: #7e7e7e;
+    background-color: #9f9f9f;
   }
 
   .page .page-content {
-    background-color: #252525;
+    background-color: #202020;
   }
 
   .page h1.entry-title {
@@ -532,7 +532,7 @@ li.social-footer a:hover {
   .contact-form input[type=email],
   .contact-form textarea {
     color: #fff;
-    background-color: #252525;
+    background-color: #202020;
   }
 
   .contact-form input[type=text]::-webkit-input-placeholder,
@@ -566,12 +566,12 @@ li.social-footer a:hover {
 
   .contact-form input[type=submit]:hover {
     background-color: #fff;
-    color: #252525;
+    color: #202020;
   }
 
   .footer {
     color: #fff;
-    background: #1a1a1a;
+    background: #202020;
   }
 
   .footer a {
@@ -579,10 +579,10 @@ li.social-footer a:hover {
   }
 
   .footer-text:before {
-    background: #1a1a1a;
+    background: #202020;
   }
 
   li.social-footer a:hover {
-    color: #7e7e7e;
+    color: #9f9f9f;
   }
 }
