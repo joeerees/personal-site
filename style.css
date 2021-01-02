@@ -492,97 +492,97 @@ li.social-footer a:hover {
 
 @media (prefers-color-scheme: dark) {
   body {
-    color: #fff;
-    background-color: #000;
+    color: #e9e9e9;
+    background-color: #161616;
   }
 
   body a {
-    color: #fff;
+    color: #e9e9e9;
   }
 
   body a:hover {
-    color: #9f9f9f;
+    color: #808080;
   }
 
   .site-wrapper ::selection {
-    background-color: #9f9f9f;
+    background-color: #808080;
   }
 
   .site-wrapper ::-moz-selection {
-    background-color: #9f9f9f;
+    background-color: #808080;
   }
 
   .underline:after {
-    background-color: #9f9f9f;
+    background-color: #808080;
   }
 
   .page .page-content {
-    background-color: #202020;
+    background-color: #1c1c1c;
   }
 
   .page h1.entry-title {
-    color: #fff;
+    color: #e9e9e9;
   }
 
   .contact-form {
-    color: #fff;
+    color: #e9e9e9;
   }
 
   .contact-form input[type=text],
   .contact-form input[type=email],
   .contact-form textarea {
-    color: #fff;
-    background-color: #202020;
+    color: #e9e9e9;
+    background-color: #1c1c1c;
   }
 
   .contact-form input[type=text]::-webkit-input-placeholder,
   .contact-form input[type=email]::-webkit-input-placeholder,
   .contact-form textarea::-webkit-input-placeholder {
-    color: #fff;
+    color: #e9e9e9;
   }
 
   .contact-form input[type=text]::-moz-placeholder,
   .contact-form input[type=email]::-moz-placeholder,
   .contact-form textarea::-moz-placeholder {
-    color: #fff;
+    color: #e9e9e9;
   }
 
   .contact-form input[type=text]:-ms-input-placeholder,
   .contact-form input[type=email]:-ms-input-placeholder,
   .contact-form textarea:-ms-input-placeholder {
-    color: #fff;
+    color: #e9e9e9;
   }
 
   .contact-form input[type=text]:-moz-placeholder,
   .contact-form input[type=email]:-moz-placeholder,
   .contact-form textarea:-moz-placeholder {
-    color: #fff;
+    color: #e9e9e9;
   }
 
   .contact-form input[type=submit] {
-    color: #fff;
-    border: 1px solid #fff;
+    color: #e9e9e9;
+    border: 1px solid #e9e9e9;
   }
 
   .contact-form input[type=submit]:hover {
-    background-color: #fff;
-    color: #202020;
+    background-color: #e9e9e9;
+    color: #1c1c1c;
   }
 
   .footer {
-    color: #fff;
-    background: #202020;
+    color: #e9e9e9;
+    background: #1c1c1c;
   }
 
   .footer a {
-    color: #fff;
+    color: #e9e9e9;
   }
 
   .footer-text:before {
-    background: #202020;
+    background: #1c1c1c;
   }
 
   li.social-footer a:hover {
-    color: #9f9f9f;
+    color: #808080;
   }
 }
