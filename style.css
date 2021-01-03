@@ -15,7 +15,7 @@ body a {
 }
 
 body a:hover {
-  color: #6a6a6a;
+  color: #808080;
 }
 
 #content p {
@@ -227,7 +227,7 @@ body a:hover {
   color: #000;
   border: 1px solid #000;
   text-align: center;
-  padding: 20px 40px 20px 45px;
+  padding: 15px 35px 15px 40px;
   cursor: pointer;
   margin-bottom: 25px;
   vertical-align: middle;
