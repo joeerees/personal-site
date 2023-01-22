@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Joseph Rees",
+    "short_name": "Joseph Rees",
     "icons": [
         {
             "src": "/favicons/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ebebeb",
-    "background_color": "#ebebeb",
+    "theme_color": "#f4f4f1",
+    "background_color": "#f4f4f1",
     "display": "standalone"
 }
