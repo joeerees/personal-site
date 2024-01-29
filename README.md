@@ -1,3 +1,3 @@
-# joeerees.github.io
+# personal-site
 
-This is the source of my personal website, accessible at https://josephrees.uk
+This is the source of my personal website, accessible at https://josephrees.com
